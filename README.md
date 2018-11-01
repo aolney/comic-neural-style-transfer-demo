@@ -9,4 +9,7 @@ However [the original](https://github.com/xunhuang1995/AdaIN-style) is more flex
 This notebook should be run in the root directory of https://github.com/xunhuang1995/AdaIN-style. 
 Note many paths are hardcoded for demo purposes.
 
+The included `ComicDemo.pdf` gives a preview of the notebook.
+At this time, GitHub does not preview SoS notebooks automatically.
+
 The license is Apache 2 except as noted on various cells in the notebook.
